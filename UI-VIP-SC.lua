@@ -9,13 +9,13 @@ if targetGui:FindFirstChild("ZorvexCarouselUI") then
 end
 
 local scriptData = {
-    ["REBIRTH + GLITCH"] = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Combo-Reb-Gc.lua'))()",
-    ["PACKS REBIRTH"]    = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Packs-Reb.lua'))()",
-    ["GLITCH"]           = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Glitch.lua'))()",
-    ["SCRIPT VIP"]       = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Script.lua'))()",
-    ["REBIRTH"]          = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Rebirth.lua'))()",
-    ["PACKS STRENGTH"]   = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Packs-Str.lua'))()",
-    ["COMBO PACKS"]      = "loadstring(game:HttpGet(('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Packs-Combo.lua'))()",
+    ["REBIRTH + GLITCH"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Combo-Reb-Gc.lua'))()",
+    ["PACKS REBIRTH"]    = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Packs-Reb.lua'))()",
+    ["GLITCH"]           = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Glitch.lua'))()",
+    ["SCRIPT VIP"]       = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Script.lua'))()",
+    ["REBIRTH"]          = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Rebirth.lua'))()",
+    ["PACKS STRENGTH"]   = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Vip-Packs-Str.lua'))()",
+    ["COMBO PACKS"]      = "loadstring(game:HttpGet('https://raw.githubusercontent.com/doushengg/VipUser/refs/heads/main/Packs-Combo.lua'))()",
 }
 
 local sg = Instance.new("ScreenGui", targetGui)
